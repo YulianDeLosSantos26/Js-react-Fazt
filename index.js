@@ -1,7 +1,10 @@
-function saludar(){
+// ptacticando 
+function add(x, y){
 
-    console.log('Hola mundo');
+   return x + y;
+
 }
 
-saludar();
-
+console.log(add(10, 2))
+console.log(add(10, 7))
+console.log(add(10, 70))
