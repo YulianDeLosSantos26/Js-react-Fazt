@@ -12,7 +12,7 @@ const user = {
     friends: ["Yulian", "Rafael"],
     active: true,
 
-    sendemail(){
+    sendemail(){ // agregando funcion de ejemplo
         return "sending email...";
     },
 
