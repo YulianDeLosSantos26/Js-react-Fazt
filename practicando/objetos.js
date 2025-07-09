@@ -19,3 +19,7 @@ const user = {
 };
 
 console.log(user);
+
+console.log(user.friends[1])
+
+// si usamos puntos podemos llamar en este caso en consola las demas propiedades y funciones y arreglos dentro del objeto.
