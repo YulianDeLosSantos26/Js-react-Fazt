@@ -22,9 +22,9 @@ const user = {
          //return '<h1>Hola ' + name + '</h1>'
 
     //Otra forma destructuring con el objeto completo extrayendo sus valores, para destructurrar no solo es con los parametros sino en cualquier parte del codigo con esta sintaxis
-    function printInfo(user){
+    function printInfo(){
 
-       const  {name, age} = user;
+       const  {name, age} = user; // con esta sintaxis en cualquier parte del codigo
 
        console.log(name, age);
 
