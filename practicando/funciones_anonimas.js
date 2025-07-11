@@ -1,4 +1,4 @@
- //Forma normal de hacer una funcion
+ //Forma normal de hacer una funcion declarada con nombre para luego llamarla en otro sitio
  
  function start(){
 
